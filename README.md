@@ -4,9 +4,11 @@
 Tramite l'utilizzo dataset contenenti i risultatati di una survey per rilevare il livello di soddisfazione dei passeggeri di una compagnia aerea, andremo a identificare i fattori più rilevanti e poi a classificare e predire la soddisfazione in base alle features considerate.
 
 * Relazione progetto : Airline_Passenger_Satisfaction.pdf
+
 * Dataset : DATASET
   * airline_test.csv
   * airline_train.csv
+
 * Codici in R e in Python: code 
   * analisi.ipynb
   * operazioni_modelli.ipynb
